@@ -1,0 +1,12 @@
+* {
+ margin: inherit;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  border: none;
+  background-color: transparent;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: inherit;
+  font-weight: normal; 
+}
